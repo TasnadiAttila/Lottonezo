@@ -1,0 +1,15 @@
+D:\lottonezo\LottoNezo\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\lottonezo\LottoNezo\WpfApp1\bin\Debug\WpfApp1.exe
+D:\lottonezo\LottoNezo\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\App.g.cs
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\MainWindow.baml
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.exe
+D:\lottonezo\LottoNezo\WpfApp1\obj\Debug\WpfApp1.pdb
